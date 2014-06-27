@@ -1,0 +1,14 @@
+---
+version: 0.8.0
+groups:
+  default:
+    dependencies:
+    - org.apache.logging.log4j:log4j-api:jar:2.0-rc1
+    - org.apache.logging.log4j:log4j-core:jar:2.0-rc1
+    artifacts:
+    - jar:org.apache.logging.log4j:log4j-core:jar:2.0-rc1:
+        transitive: {}
+    - jar:org.apache.logging.log4j:log4j-api:jar:2.0-rc1:
+        transitive: {}
+remote_repositories:
+- http://mvnrepository.com/artifact/org.apache.commons

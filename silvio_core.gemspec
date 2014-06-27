@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = SilvioCore::VERSION
   spec.authors       = ["Joost Van Averbeke"]
   spec.email         = ["joost.van.averbeke@telenet.be"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Silvio generic core component}
+  spec.summary       = %q{Silvio generic core component}
   spec.homepage      = ""
   spec.license       = "MIT"
 
