@@ -19,18 +19,23 @@
       <library name="silvio_core (v0.0.1, /Users/joost/Documents/RubyMineWorkspace/silvio_core) [path][gem]">
         <CLASSES>
           <root url="file://$MODULE_DIR$/bin" />
+          <root url="file://$MODULE_DIR$/ext" />
           <root url="file://$MODULE_DIR$/lib" />
           <root url="file://$MODULE_DIR$/.idea" />
         </CLASSES>
         <SOURCES>
           <root url="file://$MODULE_DIR$/bin" />
+          <root url="file://$MODULE_DIR$/ext" />
           <root url="file://$MODULE_DIR$/lib" />
           <root url="file://$MODULE_DIR$/.idea" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.3.5, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="lock_jar (v0.10.0, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="naether (v0.13.7, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.1.0, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.1, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
   </component>
 </module>
 
