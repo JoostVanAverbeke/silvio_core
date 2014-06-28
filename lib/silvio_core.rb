@@ -1,4 +1,5 @@
 require 'lock_jar'
+require 'silvio_core/extends/mips_time'
 require "silvio_core/version"
 
 module SilvioCore
