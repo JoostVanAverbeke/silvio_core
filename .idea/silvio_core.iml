@@ -88,7 +88,7 @@
     <orderEntry type="jdk" jdkName="RVM: jruby-1.7.4 [global]" jdkType="JRUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="silvio_core (v0.0.1, /Users/joost/Documents/RubyMineWorkspace/silvio_core) [path][gem]">
+      <library name="silvio_core (v0.0.2, /Users/joost/Documents/RubyMineWorkspace/silvio_core) [path][gem]">
         <CLASSES>
           <root url="file://$MODULE_DIR$/bin" />
           <root url="file://$MODULE_DIR$/ext" />
