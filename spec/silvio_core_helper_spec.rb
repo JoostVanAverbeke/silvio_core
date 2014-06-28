@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'silvio_core/silvio_core_helper'
 
 require 'java'
 

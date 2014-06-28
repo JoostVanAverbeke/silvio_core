@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["joost.van.averbeke@telenet.be"]
   spec.description   = %q{Silvio generic core component}
   spec.summary       = %q{Silvio generic core component}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/JoostVanAverbeke/silvio_core"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
@@ -20,5 +20,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
+  spec.add_development_dependency("lock_jar",    "~> 0.8.0")
   spec.extensions << 'ext/Rakefile'
 end

@@ -105,7 +105,6 @@
     </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.3.5, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.2.5, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="lock_jar (v0.10.0, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="naether (v0.13.7, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.1.0, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec (v3.0.0, RVM: jruby-1.7.4 [global]) [gem]" level="application" />
